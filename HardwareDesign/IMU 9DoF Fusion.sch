@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.4">
+<eagle version="6.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6975,8 +6975,8 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <sheets>
 <sheet>
 <plain>
-<text x="167.64" y="7.62" size="5.08" layer="94">Explore Labs</text>
-<text x="243.84" y="7.62" size="3.81" layer="94">1</text>
+<text x="172.72" y="7.62" size="3.81" layer="94">Explore Labs</text>
+<text x="241.3" y="7.62" size="2.54" layer="94">1.1</text>
 <text x="60.96" y="165.1" size="1.778" layer="97">3.3V to 5.5V</text>
 <wire x1="0" y1="124.46" x2="147.32" y2="124.46" width="0.1524" layer="94" style="shortdash"/>
 <wire x1="147.32" y1="124.46" x2="147.32" y2="185.42" width="0.1524" layer="94" style="shortdash"/>
@@ -6993,27 +6993,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <text x="111.76" y="144.78" size="1.778" layer="97">0603</text>
 <text x="233.68" y="172.72" size="1.778" layer="97">3.3V to 5.5V</text>
 <text x="60.96" y="30.48" size="1.778" layer="97">3.3V to 5.5V</text>
-<text x="124.46" y="58.42" size="1.778" layer="97">1414609</text>
-<text x="7.62" y="63.5" size="1.778" layer="97">1650834</text>
-<text x="27.94" y="48.26" size="1.778" layer="97">1650834</text>
-<text x="40.64" y="48.26" size="1.778" layer="97">1520256</text>
-<text x="160.02" y="60.96" size="1.778" layer="97">1650834</text>
-<text x="172.72" y="43.18" size="1.778" layer="97">1828833</text>
-<text x="172.72" y="40.64" size="1.778" layer="97">1844329</text>
-<text x="167.64" y="40.64" size="1.778" layer="97">or</text>
-<text x="233.68" y="60.96" size="1.778" layer="97">1414725</text>
-<text x="43.18" y="139.7" size="1.778" layer="97">2112745</text>
-<text x="111.76" y="139.7" size="1.778" layer="97">1962112</text>
-<text x="7.62" y="170.18" size="1.778" layer="94">3.3V from ArduBoard's ADP122</text>
-<text x="43.18" y="162.56" size="1.778" layer="94">high</text>
-<text x="99.06" y="177.8" size="1.778" layer="94">3.294 V from on-board the</text>
 <text x="116.84" y="162.56" size="1.778" layer="94">low</text>
-<text x="157.48" y="170.18" size="1.778" layer="94">low</text>
-<text x="226.06" y="167.64" size="1.778" layer="94">high</text>
-<text x="149.86" y="144.78" size="1.778" layer="97">1650834</text>
-<text x="99.06" y="175.26" size="1.778" layer="94">IMU 9DoF fusion (for test - BBPS_SMD)</text>
-<text x="7.62" y="167.64" size="1.778" layer="94">like Pro-mini 3.3V</text>
-<text x="160.02" y="162.56" size="1.778" layer="94">remove cap</text>
 </plain>
 <instances>
 <instance part="U2" gate="G$1" x="76.2" y="76.2"/>
